@@ -43,6 +43,7 @@
 - agent-based-orchestration, container-resilience, design-patterns-applied,
   event-driven-monitoring, multi-region-data-migration, operations-runbook,
   system-architecture, web-security-defense
+database & sql
 
 ## CS (`cs/`)
 - **cse-fundamentals** — CSE 기초 종합 교과서 (미적분/선형대수/확률통계/이산수학/자료구조/알고리즘/OS/네트워크/보안/DB/PLT/병렬컴퓨팅/NLP/CV 등 21개 챕터)
