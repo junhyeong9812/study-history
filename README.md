@@ -60,3 +60,4 @@ feat(<직속 부모 폴더>): <파일명(확장자 제외)>
 ```
 
 예) `feat(design-patterns): 21-strategy`, `feat(fastapi-async): pydantic-models`
+프로젝트간 내용 정리
